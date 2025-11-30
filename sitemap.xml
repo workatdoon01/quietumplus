@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -9,27 +10,22 @@
 
 <url>
   <loc>https://quiietumplus.com/</loc>
-  <lastmod>2025-08-08T12:56:04+00:00</lastmod>
+  <lastmod>2025-11-30T06:23:37+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://quiietumplus.com/index.html</loc>
-  <lastmod>2025-08-08T12:56:04+00:00</lastmod>
+  <loc>https://quiietumplus.com/privacypolicy</loc>
+  <lastmod>2025-11-30T06:23:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://quiietumplus.com/PrivacyPolicy.html</loc>
-  <lastmod>2025-08-08T12:56:04+00:00</lastmod>
+  <loc>https://quiietumplus.com/termsandconditions</loc>
+  <lastmod>2025-11-30T06:23:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://quiietumplus.com/TermsAndConditions.html</loc>
-  <lastmod>2025-08-08T12:56:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://quiietumplus.com/contact-us.html</loc>
-  <lastmod>2025-08-08T12:56:03+00:00</lastmod>
+  <loc>https://quiietumplus.com/contact-us</loc>
+  <lastmod>2025-11-30T06:23:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
